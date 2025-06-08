@@ -1,4 +1,4 @@
-
+#PRINT THE TRIANGLE PATTERN
 def lower_triangle(rows):        # Function to create a lower triangular star pattern
     
     print("Lower Triangle:")
